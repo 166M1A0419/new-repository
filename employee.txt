@@ -1,5 +1,7 @@
 The following is employee list
 David Scott
-Tina Smith
 Ramesh
 Suresh
+Allan Scott
+Lea
+TempName
